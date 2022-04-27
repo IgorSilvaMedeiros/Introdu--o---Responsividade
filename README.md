@@ -13,6 +13,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto tem como finalidade colocar em prática os conceitos de responsividade, ele foi elaborado na aula do programa Explorer da Rocketseat.
 
+- [Página](https://igorsilvamedeiros.github.io/Introducao_a_Responsividade/)
+
 ## 🔖 Layout
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
